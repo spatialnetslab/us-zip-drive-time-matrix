@@ -35,34 +35,16 @@ The result is a **nationwide drive time matrix that can be used for transportati
 
 # Contents
 
-## ArcGIS Pro Toolkit
-
-Download the ArcGIS Pro toolkit:
+All files related to this project—including the ArcGIS Pro toolkit, the nationwide ZIP code drive time matrix, and the user guide—are available in a single compressed download.
 
 **Download:**  
-[ArcGIS Pro Toolkit](LINK_TO_TOOLKIT)
+[Toolkit, Drive Time Matrix, and User Guide (ZIP, 2.1 GB)]([LINK_TO_DOWNLOAD](https://doi.org/10.6084/m9.figshare.31719763))
 
-The toolkit allows users to generate or extend large OD drive time matrices.
+The download package contains:
 
----
-
-## Drive Time Matrix Dataset
-
-The calibrated nationwide ZIP code drive time matrix is available here:
-
-**Download:**  
-[ZIP Code Drive Time Matrix (2.1 GB)](LINK_TO_MATRIX)
-
-The matrix contains estimated drive times between ZIP code areas across the United States.
-
----
-
-## User Guide
-
-Detailed instructions for using the toolkit are provided in the user guide.
-
-**Download:**  
-[User Guide (PDF)](LINK_TO_USER_GUIDE)
+- **ArcGIS Pro Toolkit** – tools for estimating large origin–destination (OD) drive time matrices  
+- **Drive Time Matrix Dataset** – the calibrated nationwide drive time matrix between ZIP code areas in the United States  
+- **User Guide (PDF)** – documentation explaining how to use the toolkit and dataset
 
 ---
 
