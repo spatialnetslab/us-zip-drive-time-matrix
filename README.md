@@ -1,4 +1,4 @@
-# U.S. ZIP Code Drive Time Matrix Toolkit
+# U.S. ZIP Code Drive Time Matrix Data and Toolkit
 
 This repository provides a toolkit and dataset for estimating a large origin–destination (OD) drive time matrix between ZIP code areas in the United States.
 
