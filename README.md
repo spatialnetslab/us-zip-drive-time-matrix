@@ -92,9 +92,9 @@ The dataset can support research in:
 
 Original research by:
 
-- Yu Hu
-- Chao Wang
-- Rui Li
+- Yujie Hu
+- Changzhen Wang
+- Ruiyang Li
 - Fahui Wang
 
 ---
