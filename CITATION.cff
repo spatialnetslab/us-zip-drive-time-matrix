@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "U.S. ZIP Code Drive Time Matrix Data and Toolkit"
+authors:
+  - family-names: Hu
+    given-names: Yujie
+  - family-names: Wang
+    given-names: Changzhen
+  - family-names: Li
+    given-names: Ruiyang
+  - family-names: Wang
+    given-names: Fahui
+year: 2020
+journal: Journal of Transport Geography
+volume: 86
+doi: 10.1016/j.jtrangeo.2020.102770
