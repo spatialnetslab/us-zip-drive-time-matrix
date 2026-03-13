@@ -38,7 +38,7 @@ The result is a **nationwide drive time matrix that can be used for transportati
 All files related to this project—including the ArcGIS Pro toolkit, the nationwide ZIP code drive time matrix, and the user guide—are available in a single compressed download.
 
 **Download:**  
-[Toolkit, Drive Time Matrix, and User Guide (ZIP, 2.1 GB)]([LINK_TO_DOWNLOAD](https://doi.org/10.6084/m9.figshare.31719763))
+[Toolkit, Drive Time Matrix, and User Guide (ZIP, 2.1 GB)](https://doi.org/10.6084/m9.figshare.31719763)
 
 The download package contains:
 
